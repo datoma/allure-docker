@@ -14,6 +14,9 @@ Starting server:
 docker run -v `pwd`/allure-results:/app/allure-results -v `pwd`/allure-report:/app/allure-report -p 8080:8080 imanel/allure serve -p 8080
 ```
 
+## Allure
+https://github.com/allure-framework/allure2
+
 ## cloned from 
 https://github.com/imanel/allure-docker/blob/master/README.md
 
